@@ -1,0 +1,10 @@
+Developed a DAPP on the blockchain, the project was bootstrapped using hardhat.js. Hardhat.js
+helps to create a smart contract, compile it, test it and deploy the smartcontract to the blo
+ckchain. Ethers.js was used to interact with the smart contract on the blockchain and react w
+as used for the frontend. What was learnt from this project was the basics of hardhat and ethers,
+writing a simple deposit function to deposit ether to our contract, learnt about using ABI's to call
+our functions in the react frontend, basics of testing a smart contract, deployed the contract 
+on the test network using hardhat, setup metamask and added a test network, used a hardhat node to 
+add a new account on the test network, using ether.js was able to connect to my metamask, get my 
+greeting and deposit ETH into my smartcontract. My aim in undertaking this project was to learn more about 
+the developemt process of smart contracts and DAPP in general. 
